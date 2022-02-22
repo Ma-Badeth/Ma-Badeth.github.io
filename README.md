@@ -1,4 +1,4 @@
-# Ohayo, Kon'nichiwa, Konbanwa! Welcome to Home Pages! 
+# Welcome!
 
 You can use the [editor on GitHub](https://github.com/Ma-Badeth/Ma-Badeth.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
