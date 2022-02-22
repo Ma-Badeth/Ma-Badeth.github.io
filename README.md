@@ -1,6 +1,5 @@
 # Welcome!
 
-![20220222_150731](https://user-images.githubusercontent.com/99848786/155080685-7ba1ee4e-bfad-4f52-9ef9-16f40b098e53.gif)
 
 
 
@@ -13,20 +12,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+![20220222_150731](https://user-images.githubusercontent.com/99848786/155081114-bdc9bed2-75e6-4370-ba5e-d5c20dae5e50.gif)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
+
+
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
